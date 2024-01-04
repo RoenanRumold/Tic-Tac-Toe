@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<HTML>
+  <head>
+    <title>
+      Homepage
+    </title>
+  </head>
+  <body>
+    <hl>Hello World</hl>
+    <p>This is a sample website</p>
+
+      <ol>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+      </ol>
+      <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+      </ul>
+  </body
+</HTLM
