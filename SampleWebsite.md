@@ -4,10 +4,10 @@
     <title>
       Homepage
     </title>
-    <link> rel="stylesheet"
+    <link rel="stylesheet"
            href="fancy.css" 
-           type="text.css
-     />
+           type="text.css"
+    />
   </head>
   <body>
     <hl>Hello World</hl>
