@@ -4,6 +4,10 @@
     <title>
       Homepage
     </title>
+    <link> rel="stylesheet"
+           href="fancy.css" 
+           type="text.css
+     />
   </head>
   <body>
     <hl>Hello World</hl>
@@ -14,9 +18,9 @@
       Click the link!
     </a>
     <ol>
-      <li>Item 1</li>
+      <li class="important">Item 1</li>
       <li>Item 2</li>
-      <li>Item 3</li>
+      <li id="thing3">Item 3</li>
     </ol>
     <ul>
       <li>Item 1</li>
